@@ -1,0 +1,2 @@
+https:  https://github.com/borhanshsh/FOP2023-Python-Project-SUT.git
+ssh:    git@github.com:borhanshsh/FOP2023-Python-Project-SUT.git
